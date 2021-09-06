@@ -1,0 +1,3 @@
+Se me pide que invierta cualquier frase.
+Utilizo javascript para realizarlo, atraves de la funcion invertir(string) le paso por parametro la cadena de texto que quiero invertir, y por el metodo split() lo transformo a un array, dsp por el metodo reverse() invierto los elementos y dsp por el metodo join() vuelvo a convertir el array en string pero ya invertido. Imprimo en pantalla los ejemplos que me dan: -"Un día ví una vaca sin cola vestida de uniforme" 
+-"Que la fuerza te acompañe"
